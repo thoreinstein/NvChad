@@ -1,0 +1,1 @@
+# Thor's NVChad Config
