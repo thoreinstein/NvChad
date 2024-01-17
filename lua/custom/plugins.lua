@@ -50,6 +50,9 @@ local plugins = {
     build = "make",
   },
   "ANGkeith/telescope-terraform-doc.nvim",
-  "alexghergh/nvim-tmux-navigation",
+  {
+    "alexghergh/nvim-tmux-navigation",
+    lazy = false,
+  },
 }
 return plugins
