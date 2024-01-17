@@ -55,6 +55,7 @@ local plugins = {
     config = function()
       require"nvim-tmux-navigation".setup()
     end,
+    lazy = false,
   },
 }
 return plugins
