@@ -24,6 +24,7 @@ lspconfig.yamlls.setup {
     yaml = {
       schemas = {
         kubernetes = "*.yaml",
+        ["https://json.schemastore.org/kustomization.json"] = "/kustomization.yaml",
       }
     }
   }
