@@ -9,6 +9,7 @@ local servers = {
   "dockerls",
   "helm_ls",
   "lua_ls",
+  "marksman",
   "rnix",
   "terraformls",
 }
