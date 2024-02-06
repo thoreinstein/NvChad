@@ -12,7 +12,6 @@ local servers = {
   "marksman",
   "rnix",
   "terraformls",
-  "textlsp",
   "texlab"
 }
 
