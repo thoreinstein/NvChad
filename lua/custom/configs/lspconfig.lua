@@ -12,7 +12,8 @@ local servers = {
   "marksman",
   "rnix",
   "terraformls",
-  "texlab"
+  "texlab",
+  "tsserver"
 }
 
 for _, lsp in ipairs(servers) do
